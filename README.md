@@ -18,14 +18,10 @@ Hoje, estou me aprofundando no campo da segurança digital, um tema que me fasci
 
 ---
 
-
+![lucasvittor's Stats](https://github-readme-stats.vercel.app/api?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![lucasvittor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasvittor&theme=graywhite&hide_border=true)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&count_private=true" width="40%" style="display: inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvittor&theme=graywhite&hide_border=true" width="42%" style="display: inline-block;">
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&layout=compact" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&layout=compact" width="80%">
 </div>
 
 
