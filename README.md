@@ -34,16 +34,16 @@ Esse projeto desenvolvido com **TypeScript**, inspirado na icônica Los Santos C
 ### [Conectados Pela Fé](https://conectados-pela-fe-lucssvittors-projects.vercel.app/)
 Projeto pessoal que visa evangelizar jovens.
 
-![Conectados Pela Fé](img/cpf.png)
+![Conectados Pela Fé](img/cpf.jpg)
 
 [![Acessar Conectados Pela Fé](https://img.shields.io/badge/Acessar%20Conectados%20Pela%20Fe-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://conectados-pela-fe-lucssvittors-projects.vercel.app/)
 
 ---
 
-### [Calculadora Interativa](https://calculator-eight-lyart.vercel.app/)
+### [Calculadora](https://calculator-eight-lyart.vercel.app/)
 Uma calculadora básica desenvolvida para realizar operações matemáticas simples.
 
-![Calculadora Interativa](img/calculadora.png)
+![Calculadora](img/calculador.jpg)
 
 [![Acessar Calculadora](https://img.shields.io/badge/Acessar%20Calculadora-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://calculator-eight-lyart.vercel.app/)
 
