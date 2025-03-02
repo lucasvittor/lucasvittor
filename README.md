@@ -20,7 +20,7 @@ Atualmente, estou me aprofundando no campo da **segurança digital**, buscando s
 
 ## 📬 Vamos conversar?  
 📩 Entre em contato e veja mais sobre meu trabalho:  
-[📄 Meu Currículo](curriculo/LucasVitor.pdf) | [💼 LinkedIn](https://www.linkedin.com/in/lucas-vitor-5263962a8/)  
+[📄 Meu Currículo](curriculo/LucasVitor.pdf)
 
 ---
 
