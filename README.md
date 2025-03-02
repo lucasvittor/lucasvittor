@@ -19,9 +19,9 @@ Hoje, estou me aprofundando no campo da segurança digital, um tema que me fasci
 ---
 
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; width: 100%; max-width: 1200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&count_private=true" style="flex: 1 1 45%; max-width: 500px; height: auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvittor&theme=graywhite&hide_border=true" style="flex: 1 1 45%; max-width: 500px; height: auto;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; width: 80%; max-width: 1200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&count_private=true" style="width: 80%; max-width: 800px; height: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvittor&theme=graywhite&hide_border=true" style="width: 80%; max-width: 800px; height: auto;">
   </div>
 </div>
 <br>
