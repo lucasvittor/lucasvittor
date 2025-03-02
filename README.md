@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**lucasvittor/lucasvittor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](img/about.png)
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim  
+Desde pequeno, sempre fui muito curioso, querendo entender como as coisas funcionavam. Esse desejo de explorar e descobrir como as tecnologias operam me levou a me apaixonar pelo mundo digital.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou me aprofundando no campo da **segurança digital**, buscando sempre resolver problemas de forma prática e eficiente. Acredito que proteger informações e sistemas é essencial em um mundo cada vez mais conectado.  
+
+---
+
+## 🎓 Formação  
+- **Análise e Desenvolvimento de Sistemas**  
+- **Cursando Pós em Segurança Cibernética**  
+
+## 🛠️ Experiência  
+- Suporte Técnico  
+- Freelancer  
+
+---
+
+## 📬 Vamos conversar?  
+📩 Entre em contato e veja mais sobre meu trabalho:  
+[📄 Meu Currículo](curriculo/LucasVitor.pdf) | [💼 LinkedIn](https://www.linkedin.com/in/lucas-vitor-5263962a8/)  
+
+---
+
+### 🌟 Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus repositórios e contribuir com ideias! 🚀  
