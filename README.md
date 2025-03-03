@@ -52,13 +52,13 @@ Uma calculadora básica desenvolvida para realizar operações matemáticas simp
 
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; width: 80%; max-width: 1200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&count_private=true" style="width: 80%; max-width: 800px; height: auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvittor&theme=graywhite&hide_border=true" style="width: 80%; max-width: 800px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&count_private=true&cache_seconds=600" style="width: 80%; max-width: 800px; height: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvittor&theme=graywhite&hide_border=true&cache_seconds=600" style="width: 80%; max-width: 800px; height: auto;">
   </div>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 800px; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&layout=compact&cache_seconds=600" style="width: 100%; max-width: 800px; height: auto;">
 </div>
 
 
