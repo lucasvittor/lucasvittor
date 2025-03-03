@@ -22,12 +22,12 @@ Hoje, estou me aprofundando no campo da segurança digital, um tema que me fasci
 
 Aqui estão alguns dos meus projetos web desenvolvidos para oferecer experiências dinâmicas e interativas. Cada um com uma proposta única para criar algo impactante.
 
-### [Los Santos](https://[los-santos-three.vercel.app](https://los-santos-customscom.vercel.app/)
+### [Los Santos](https://los-santos-customscom.vercel.app/)
 Esse projeto desenvolvido com **TypeScript**, inspirado na icônica Los Santos Customs do jogo GTA 5.
 
 ![Los Santos](img/los.png)
 
-[![Acessar Los Santos](https://img.shields.io/badge/Acessar%20Los%20Santos-1E90FF?style=for-the-badge)](https://los-santos-three.vercel.app/)
+[![Acessar Los Santos](https://img.shields.io/badge/Acessar%20Los%20Santos-1E90FF?style=for-the-badge)](https://los-santos-customscom.vercel.app/)
 
 ---
 
