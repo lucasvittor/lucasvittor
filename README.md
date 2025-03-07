@@ -18,38 +18,6 @@ Hoje, estou me aprofundando no campo da segurança digital, um tema que me fasci
 
 ---
 
-## 🌐 Projetos Web
-
-Aqui estão alguns dos meus projetos web desenvolvidos para oferecer experiências dinâmicas e interativas. Cada um com uma proposta única para criar algo impactante.
-
-### [Los Santos](https://los-santos-customscom.vercel.app/)
-Esse projeto desenvolvido com **TypeScript**, inspirado na icônica Los Santos Customs do jogo GTA 5.
-
-![Los Santos](img/los.png)
-
-[![Acessar Los Santos](https://img.shields.io/badge/Acessar%20Los%20Santos-1E90FF?style=for-the-badge)](https://los-santos-customscom.vercel.app/)
-
----
-
-### [Conectados Pela Fé](https://conectados-pela-fe-lucssvittors-projects.vercel.app/)
-Projeto pessoal que visa evangelizar jovens.
-
-![Conectados Pela Fé](img/cpf.jpg)
-
-[![Acessar Conectados Pela Fé](https://img.shields.io/badge/Acessar%20Conectados%20Pela%20Fe-32CD32?style=for-the-badge)](https://conectados-pela-fe-lucssvittors-projects.vercel.app/)
-
----
-
-### [Calculadora](https://calculator-eight-lyart.vercel.app/)
-Uma calculadora básica desenvolvida para realizar operações matemáticas simples.
-
-![Calculadora](img/calculador.jpg)
-
-[![Acessar Calculadora](https://img.shields.io/badge/Acessar%20Calculadora-FFD700?style=for-the-badge)](https://calculator-eight-lyart.vercel.app/)
-
----
-
-
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; width: 80%; max-width: 1200px;">
     <img src="https://github-readme-stats.vercel.app/api?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&count_private=true&cache_seconds=100" style="width: 80%; max-width: 800px; height: auto;">
