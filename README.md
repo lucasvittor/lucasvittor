@@ -18,7 +18,6 @@ Hoje, estou me aprofundando no campo da segurança digital, um tema que me fasci
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvittor&theme=graywhite&show_icons=true&hide_border=true&layout=compact">
 
 
 
