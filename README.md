@@ -6,18 +6,6 @@ Hoje, estou me aprofundando no campo da segurança digital, um tema que me fasci
 
 ---
 
-## 🎓 Formação Acadêmica  
-📌 **Análise e Desenvolvimento de Sistemas**  
-📌 **Cursando Pós-Graduação em Segurança Cibernética**  
-
----
-
-## 🛠️ Experiência Profissional  
-✔️ **Suporte Técnico**  
-✔️ **Freelancer**  
-
----
-
 
 
 
